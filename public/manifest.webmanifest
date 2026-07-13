@@ -1,0 +1,13 @@
+{
+  "name": "Ksi Flight",
+  "short_name": "Ksi",
+  "description": "零加价、无捆绑的机票搜索与旅程钱包",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eff6f4",
+  "theme_color": "#0c1614",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "/ksi.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
